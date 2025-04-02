@@ -1,4 +1,4 @@
-module github.com/mannemsolutions/pgtester
+module github.com/nibble-tools/pgtester
 
 go 1.16
 
